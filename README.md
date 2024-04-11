@@ -5,11 +5,8 @@ Breast Cancer Predictor is a web application designed to assist medical professi
 # Features
 
 - **User Inputs**: Users can enter cell nucleus measurements using sliders in the sidebar.
-- 
 - **Radar Chart**: The application visualizes the user inputs as a radar chart, showing different aspects of the measurements.
-- 
 - **Model Predictions**: The application uses a pre-trained logistic regression model to predict whether the breast mass is benign or malignant. It provides the probability of each prediction.
-- 
 - **Styling**: Custom CSS styling is applied to the application for a better user experience.
 
 ## Usage

@@ -9,7 +9,7 @@ Breast Cancer Predictor is a web application designed to assist medical professi
 - **Model Predictions**: The application uses a pre-trained logistic regression model to predict whether the breast mass is benign or malignant. It provides the probability of each prediction.
 - **Styling**: Custom CSS styling is applied to the application for a better user experience.
 
-## Usage
+## Installation
 
 To use the Breast Cancer Predictor application:
 
@@ -26,7 +26,6 @@ Run the application using Streamlit:
 
 streamlit run app.py
 
-
 # Dependencies
 
 Python 3.7+
@@ -36,12 +35,6 @@ scikit-learn
 streamlit
 plotly
 pickle5
-
-# Installation
-
-You can install the required dependencies by running:
-
-pip install -r requirements.txt
 
 # Disclaimer
 This application is for educational purpose only. It should not be used as a substitute for professional medical diagnosis. Always consult a qualified healthcare professional for medical advice and diagnosis.

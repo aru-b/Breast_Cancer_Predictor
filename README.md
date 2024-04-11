@@ -14,17 +14,16 @@ Breast Cancer Predictor is a web application designed to assist medical professi
 To use the Breast Cancer Predictor application:
 
 1. Clone the repository to your local machine:
-
    git clone https://github.com/your-username/breast-cancer-predictor.git
-Navigate to the project directory:
 
-cd breast-cancer-predictor
-Install the required Python packages:
+2. Navigate to the project directory:
+   cd breast-cancer-predictor
 
-pip install -r requirements.txt
-Run the application using Streamlit:
+3. Install the required Python packages:
+   pip install -r requirements.txt
 
-streamlit run app.py
+4. Run the application using Streamlit:
+   streamlit run app.py
 
 # Dependencies
 
